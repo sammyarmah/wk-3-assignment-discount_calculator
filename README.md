@@ -1,4 +1,4 @@
-### Discount_calculator
+### Discount_calculator 
 
 This Python program calculates the final price of an item after applying a discount, but only if the discount is 20% or higher.
 
